@@ -1,2 +1,2 @@
 # demo
-demo repsitory for git
+demo repository for git
